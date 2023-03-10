@@ -1,5 +1,5 @@
 # ConsoleSweeper
-Minesweeper as a C# console app! Build with .NET 7.
+Minesweeper as a C# console app! Build with .NET 6.
 
 ## Controls
 - Esc to refresh board
